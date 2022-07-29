@@ -1,0 +1,4 @@
+- # Sobre mim
+- Olá, meu nome é Rafael Gomes
+- Moro em Quinta do Sol, Paraná
+- Sou aluno da disciplina de Pensamento Computacional
